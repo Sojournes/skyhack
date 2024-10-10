@@ -12,10 +12,8 @@ In this hackathon, we explored Streamlining Call Processes for Improved Customer
 - **Data**: Provided in the hackathon.
 
 
-## PPT Link
-
-[## Contents
-](https://drive.google.com/file/d/1xN0eY42Qq6OLZr3eFgvuIKHyc1U5Ab_9/view?usp=drive_link)
+## PPT LINK
+(https://drive.google.com/file/d/1xN0eY42Qq6OLZr3eFgvuIKHyc1U5Ab_9/view?usp=drive_link)
 
 ## Acknowledgements
 
